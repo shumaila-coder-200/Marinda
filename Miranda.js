@@ -19,5 +19,3 @@ tl.to("#page", {
     duration: 0.8,
     scale:1,
 })
-
-let image=document.querySelector("#page6")
